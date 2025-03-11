@@ -13,7 +13,7 @@ This plugin create a custom form to enquire the feedbacks on frontend by using s
 This plugin create a custom form to enquire the feedbacks on frontend by using shortcode.
 You only can see the list of the submissions if you are administrator, but the enquire form will work for registered or non-registered users.
 
-== Installation ==
+== Installation ==  
 
 Upload the Enquire Feedback Form plugin to your website, Activate it, then create the pages to show the forms and list of feedbacks with the following shortcodes.
 
