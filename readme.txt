@@ -19,5 +19,5 @@ Upload the Enquire Feedback Form plugin to your website, Activate it, then creat
 
 [enfb_form] - create the enquire form
 [enfb_feedbacks] - list the feedbacks, but limited by administrators
-
+      
 1, 2, 3: You're done!
